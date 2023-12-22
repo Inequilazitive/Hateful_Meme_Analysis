@@ -1,6 +1,6 @@
 # Hateful_Meme_Analysis
 
-The notebooks have been atatched in the respective COde folder of each task.
+The notebooks have been atatched in the respective Code folder of each task.
 
 Please make sure to:
 
